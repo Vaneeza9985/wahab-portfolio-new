@@ -43,7 +43,7 @@ export const siteConfig = {
   experience: [
     {
       id: 1,
-      company: "Pakistan Aeronautical Complex",
+      company: "Pakistan Aeronautical Comp",
       location: "Kamra Air Base",
       position: "Mechanical Engineering Intern",
       duration: "1 month",
