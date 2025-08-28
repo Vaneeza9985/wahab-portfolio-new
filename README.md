@@ -1,4 +1,4 @@
-# Ahmed Hassan - Portfolio Website
+# Developer Vaneeza - Portfolio Website
 
 A production-ready, responsive portfolio website for a Mechanical Engineer specializing in Aircraft Structures & Systems. Built with modern web technologies and following current design trends.
 
